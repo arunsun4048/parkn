@@ -1,2 +1,2 @@
 # parkn
-Back end for mobile app
+Back end for mobile app for parking
